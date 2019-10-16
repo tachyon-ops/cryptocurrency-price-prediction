@@ -1,2 +1,2 @@
-# Cryptocurrency-Price-Prediction
-Predicting Cryptocurrency Price using LSTM
+# Bitcoin-Price-Prediction
+Predicting Bitcoin Price using LSTM
