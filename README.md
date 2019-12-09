@@ -10,3 +10,17 @@ Check out the corresponding medium blog post [https://towardsdatascience.com/cry
 ## Actual vs predicted prices
 
 ![](i14.png)
+
+## Citing
+
+```
+@misc{Abhinav:2019,
+  Author = {Abhinav Sagar},
+  Title = {Cryptocurrency-Price-Prediction},
+  Year = {2019},
+  Publisher = {GitHub},
+  Journal = {GitHub repository},
+  Howpublished = {\url{https://github.com/abhinavsagar/Cryptocurrency-Price-Prediction}}
+}
+```
+
