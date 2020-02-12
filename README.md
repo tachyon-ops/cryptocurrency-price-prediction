@@ -1,5 +1,6 @@
 # Cryptocurrency-Price-Prediction
-Predicting Cryptocurrency Price using LSTM neural network
+
+Unofficial code for paper "Predictive Analysis of Cryptocurrency Price Using Deep Learning"
 
 ## IMPORTANT
 
